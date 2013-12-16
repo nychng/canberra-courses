@@ -1,0 +1,8 @@
+.jumbotron {
+	background-image: url("../img/fractal.jpg");
+	background-size: 100%;
+	color: #fff;
+}
+.center {
+	text-align: center;
+}
